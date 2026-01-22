@@ -1,0 +1,90 @@
+
+body{
+    width: 100%;
+}
+.container{
+    
+    position: relative;
+    padding: 5px;
+    height: 30px;
+}
+.logo #logo{
+    position: absolute;
+    left: 2%;
+    height: 30px;
+}
+
+.logo #v{
+    position: absolute;
+    left: 6%;
+    font-size: 15px;
+    top: 5px;
+}
+
+.navigation{
+    
+    text-align: center;
+}
+
+.navigation .key{
+    display: inline;
+    margin-left: 3rem;
+}
+.navigation .sign{
+    position: absolute;
+    display: inline;
+    right: 2%;
+}
+#in{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+#up{
+    border-radius: 10px;
+}
+
+.middle{
+    
+    /* position: relative; */
+    text-align: center;
+    margin: 400px 50px ;
+    height: 0vh;
+    align-items: center;
+    border-radius: 90px;
+    /* padding: 50%; */
+    
+    
+}
+#header{
+    font-size: xx-large;
+    /* position: absolute; */
+    
+    
+
+}
+.searce{
+    
+    /* position: relative;   */
+}
+#ask{
+    
+    /* position: absolute; */
+    display: inline-block;
+    /* text-align: center; */
+    border-radius: 50px;
+    align-items: center;
+    top: 50px;
+    right: 580px;
+   
+}
+
+.searce .choice{
+    border-radius: 20px;
+    display: inline-block;
+    bottom: 0;
+    
+    
+    /* left: 20px ; */
+    /* position: absolute; */
+}

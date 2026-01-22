@@ -1,0 +1,67 @@
+
+body{
+    background-color: palevioletred;
+    width: 100%;
+}
+.container{
+    
+    position: relative;
+    padding: 5px;
+    height: 30px;
+}
+.logo #logo{
+    position: absolute;
+    left: 2%;
+    height: 30px;
+}
+
+.logo #v{
+    position: absolute;
+    left: 6%;
+    font-size: 15px;
+    top: 5px;
+}
+
+.navigation{
+    
+    text-align: center;
+}
+
+
+.navigation .sign{
+    position: absolute;
+    display: inline;
+    right: 2%;
+}
+#in{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+#up{
+    border-radius: 10px;
+}
+
+
+
+.table{
+    position: relative;
+}
+.middle{
+    position: absolute;
+}
+.image1{
+    position: absolute;
+    margin: 50px;
+    margin: 300px;
+    
+}
+.im1{
+    display: inline;
+}
+.im2{
+    display: inline;
+}
+.image2{
+    position: absolute;
+}
